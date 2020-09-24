@@ -15,6 +15,7 @@ namespace testdemoprj
         public void sum()
         {
             Program p = new Program();
+            Console.WriteLine("Hello GIT");
         }
     }
 }
