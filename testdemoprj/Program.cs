@@ -14,7 +14,7 @@ namespace testdemoprj
 
         public void sum()
         {
-            Program p;
+            Program p = new Program();
         }
     }
 }
